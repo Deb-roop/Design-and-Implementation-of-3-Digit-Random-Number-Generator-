@@ -1,4 +1,4 @@
-# 3-Digit Random Number Generator (Digital Lottery Machine)
+# 3-Digit Random Number Generator (Digital Lottery Machine + Counter )
 
 This project was developed as part of the **2nd Year, 1st Semester Digital Electronics and Logic Circuit Laboratory (ECE 2104) Open Ended Project** at Khulna University of Engineering & Technology (KUET). 
 
